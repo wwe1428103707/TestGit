@@ -1,1 +1,1 @@
-Hello world
+Same as Unix
